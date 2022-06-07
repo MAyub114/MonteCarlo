@@ -1,4 +1,4 @@
-# Determine the value of $\pi$ using Monte Carlo simulation
+# Determine the value of pi using Monte Carlo simulation
 
 ## How it works
 
